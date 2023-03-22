@@ -12,7 +12,7 @@ mpv_bookmark is a Lua script for the MPV media player that allows you to easily 
 
 1. Download `mpv_bookmark.zip` from the Releases tab on the right.
 2. Extract the file containing the .lua script to a folder. 
-3. Place the `mpv_bookmarks.lua` file in your MPV scripts directory.
+3. Place the `mpv_bookmark.lua` file in your MPV scripts directory.
    - For Linux: `~/.config/mpv/scripts/`
    - For Windows: `%APPDATA%\mpv\scripts\`
 
