@@ -24,3 +24,6 @@ The script provides the following keyboard shortcuts:
 - **Shift+Left**: Navigate to the previous bookmark.
 - **Shift+Right**: Navigate to the next bookmark.
 - **Shift+B**: Remove the closest bookmark within 20 seconds of the current playback position. If there's no bookmark within that range, an OSD message will be displayed stating that no bookmarks were found within 20 seconds.
+## License
+
+This project is released under the [MIT License](LICENSE.md)
